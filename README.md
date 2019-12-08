@@ -1,5 +1,4 @@
- 
-![alt text](https://imgurl.ir/uploads/r689883_.png)
+ ![alt text](https://imgurl.ir/uploads/r689883_.png)
 
 <h1 align="center">
   DDOser New (Anti-ICMP)!
@@ -29,15 +28,11 @@ How To Work ?:
 ```Shell
 3. Enter Port(For Attack On Port)
 ```
-TeleGram Channel<a href="https://t.me/PrimeTeam" target="_blank">
-  <br>
- TeleGram Channel 2<a href="https://t.me/Prime_Plus" target="_blank">
- <br>
- Instagram<a href="https://instagram/SorBlack" target="_blank">
- <br>
- GitHub<a href="https://github.com/SorBlackPlus" target="_blank">
- <br>
- YouTube<a href="https://www.youtube.com/channel/UCUfkceZ6SG07MItIg5n6sPA" target="_blank">
+ <a href="https://t.me/PrimeTeam" target="_blank">TeleGram-Channel</a>
+ <a href="https://t.me/Prime_Plus" target="_blank">TeleGram-Channel-2</a>
+ <a href="https://instagram/SorBlack" target="_blank">Instagram</a>
+ <a href="https://github.com/SorBlackPlus" target="_blank">GitHub</a>
+ <a href="https://www.youtube.com/channel/UCUfkceZ6SG07MItIg5n6sPA" target="_blank">YouTube</a>
  
  
 #Dont Copy
