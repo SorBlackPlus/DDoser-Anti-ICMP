@@ -1,10 +1,14 @@
  ![alt text](https://imgurl.ir/uploads/r689883_.png)
 
 <h1 align="center">
-  DDOser New (Anti-ICMP)!
+  DDoser New (Anti-ICMP)!
 </h1>
 <br>
-
+<i><b>
+ ```Shell
+When ICMP (Server) is Close You Can Use This Tools For DDos Attack !
+```
+ </b></i>
 
 <h1 align="center">
    Installation And Run
