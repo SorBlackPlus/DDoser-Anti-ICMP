@@ -5,10 +5,8 @@
 </h1>
 <br>
 <i><b>
- ```Shell
 When ICMP (Server) is Close You Can Use This Tools For DDos Attack !
-```
- </b></i>
+</b></i>
 
 <h1 align="center">
    Installation And Run
