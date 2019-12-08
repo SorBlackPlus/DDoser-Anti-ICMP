@@ -13,6 +13,7 @@ When ICMP (Server) is Close You Can Use This Tools For DDos Attack !
 </h1>
 
 Download and install the latest version of Nmap<br>
+<i><b>You should Be Disable Uac For Run Script !!!!!! </b></i>
 <br>
 Then do:<br>
 ```Shell
