@@ -37,6 +37,8 @@ How To Work ?:
 ```
 
 #Dont Copy
+<br>
 <a href="https://t.me/SorBlack" target="_blank"><img src="https://imgurl.ir/uploads/e48726_.jpg" 
-alt="SorBlack" width="240" height="180" border="10" /></a>
+alt="SorBlack" width="100" height="80" border="10" /></a>
+<br>
 #2019
