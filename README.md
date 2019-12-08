@@ -1,6 +1,7 @@
-TeleGram-Channel<a href="https://t.me/PrimeTeam" target="_blank">
+ 
+TeleGram Channel<a href="https://t.me/PrimeTeam" target="_blank">
   <br>
-TeleGram-Channel(2)<a href="https://t.me/Prime_Plus" target="_blank">
+TeleGram Channel 2<a href="https://t.me/Prime_Plus" target="_blank">
  <br>
 TeleGram<a href="https://t.me/SorBlack" target="_blank">
  <br>
