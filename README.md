@@ -1,17 +1,10 @@
-![Telegram Channel](https://t.me/PrimeTeam "TeleGram")
-![Telegram Channel - 2](https://t.me/Prime_Plus "TeleGram - 2")
-![My TeleGram Id](https://t.me/SorBlack "Help")
-![Instagram](https://instagram/SorBlack "InstaGram")
-![Github](https://github.com/SorBlackPlus "GitHub")
-![Github](https://www.youtube.com/channel/UCUfkceZ6SG07MItIg5n6sPA "Youtube")
-
-<a href="https://t.me/PrimeTeam" target="_blank">
-<a href="https://t.me/Prime_Plus" target="_blank">
-<a href="https://t.me/SorBlack" target="_blank">
-<a href="https://instagram/SorBlack" target="_blank">
-<a href="https://github.com/SorBlackPlus" target="_blank">
+TeleGram-Channel(1)<a href="https://t.me/PrimeTeam" target="_blank">
+TeleGram-Channel(2)<a href="https://t.me/Prime_Plus" target="_blank">
+TeleGram<a href="https://t.me/SorBlack" target="_blank">
+Instagram<a href="https://instagram/SorBlack" target="_blank">
+GitHub<a href="https://github.com/SorBlackPlus" target="_blank">
 YouTube<a href="https://www.youtube.com/channel/UCUfkceZ6SG07MItIg5n6sPA" target="_blank">
-
+ <br>
 ![alt text](https://imgurl.ir/uploads/r689883_.png)
 
 <h1 align="center">
