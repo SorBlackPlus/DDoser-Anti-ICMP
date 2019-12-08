@@ -1,5 +1,6 @@
-![Telegram Channel](https://t.me/PrimeTeam https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiVzObx_qXmAhVnU98KHUNmBFAQjRx6BAgBEAQ&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FTelegram_(software)&psig=AOvVaw2mndbJFrtGMNTs1zojwWSP&ust=1575892421419569 "TeleGram")
-![Telegram Channel - 2](https://t.me/Prime_Plus https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiVzObx_qXmAhVnU98KHUNmBFAQjRx6BAgBEAQ&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FTelegram_(software)&psig=AOvVaw2mndbJFrtGMNTs1zojwWSP&ust=1575892421419569 "TeleGram - 2")
+![Telegram Channel](https://t.me/PrimeTeam "TeleGram")<img src="https://imgurl.ir/uploads/e48726_.jpg" 
+alt="SorBlack" width="100" height="80" border="10" /></a>
+![Telegram Channel - 2](https://t.me/Prime_Plus "TeleGram - 2")
 ![My TeleGram Id](https://t.me/SorBlack "Help")
 ![Instagram](https://instagram/SorBlack "InstaGram")
 ![Github](https://github.com/SorBlackPlus "GitHub")
