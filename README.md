@@ -30,16 +30,16 @@ How To Work ?:
 ```
 
  
-#Dont Copy
+<i?<b>#Dont Copy</b></i>
 <br>
-#2019
+<i><b>#2019</b></i>
 <br>
 <br>
 <a href="https://t.me/SorBlack" target="_blank"><img src="https://imgurl.ir/uploads/e48726_.jpg" 
 alt="SorBlack" width="100" height="80" border="10" /></a> :<a href="https://t.me/PrimeTeam" target="_blank"> Prime team Channel</a><br>
- <a href="https://t.me/Prime_Plus" target="_blank">Prime Plus-Channel</a><br>
- <a href="https://instagram/SorBlack" target="_blank">Instagram</a><br>
- <a href="https://github.com/SorBlackPlus" target="_blank">GitHub</a><br>
- <a href="https://www.youtube.com/channel/UCUfkceZ6SG07MItIg5n6sPA" target="_blank">YouTube</a><br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://t.me/Prime_Plus" target="_blank">Prime Plus-Channel</a><br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://instagram/SorBlack" target="_blank">Instagram</a><br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/SorBlackPlus" target="_blank">GitHub</a><br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.youtube.com/channel/UCUfkceZ6SG07MItIg5n6sPA" target="_blank">YouTube</a><br>
  <br>
 <br>
