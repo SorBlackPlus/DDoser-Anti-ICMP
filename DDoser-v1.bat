@@ -1,6 +1,9 @@
+#SorBlack
+#Dont Copy !
+#Thanks_For_Following_Me
 @echo off 
 
-mode 80,20
+mode 120,30
  
 title DDoser(new) By SorBlack 
  
@@ -8,16 +11,24 @@ color 0a
  
 cls 
 
-
+echo                 _____                _____  __                _     
+echo                (_____)         _    (_____)(__)              (_) _  
+echo               (_)___     ___  (_)__ (_)__(_)(_)  ____    ___ (_)(_) 
+echo                 (___)_  (___) (____)(_____) (_) (____) _(___)(___)  
+echo                 ____(_)(_)_(_)(_)   (_)__(_)(_)( )_( )(_)___ (_)(_) 
+echo                (_____)  (___) (_)   (_____)(___)(__)_) (____)(_) (_)
+echo.
+echo                 -------------------------------------------------
 echo                        SorBlack - DDoser (Anti-ICMP-Block)
 echo                       ------------------------------------
-echo                                  Version : 1.0
+echo                                   Version : 1.0
 echo                       ------------------------------------
-echo                         !Please Turn Off Notify Windows !
+echo                         !Please Turn Off Notify Windows(*) !
 echo                       ------------------------------------
-echo                           More : ---------------------                                                                         
-
-
+echo                      Github : https://github.com/SorBlackPlus 
+echo.                -------------------------------------------------
+echo.
+echo.
 echo.
 
 :Menu
