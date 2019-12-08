@@ -5,18 +5,12 @@
 ![Github](https://github.com/SorBlackPlus "GitHub")
 ![Github](https://www.youtube.com/channel/UCUfkceZ6SG07MItIg5n6sPA "Youtube")
 
-<a href="https://t.me/PrimeTeam" target="_blank"><img src="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwji4bzY_6XmAhXvQ98KHd5UB1oQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F2460228%2Fchat_messenger_social_telegram_icon&psig=AOvVaw2855TI9OwunJ0hx5TjElbC&ust=1575892633878534" 
-alt="SorBlack" width="100" height="80" border="10" /></a>
-<a href="https://t.me/SorBlack" target="_blank"><img src="https://imgurl.ir/uploads/e48726_.jpg" 
-alt="SorBlack" width="100" height="80" border="10" /></a>
-<a href="https://t.me/SorBlack" target="_blank"><img src="https://imgurl.ir/uploads/e48726_.jpg" 
-alt="SorBlack" width="100" height="80" border="10" /></a>
-<a href="https://t.me/SorBlack" target="_blank"><img src="https://imgurl.ir/uploads/e48726_.jpg" 
-alt="SorBlack" width="100" height="80" border="10" /></a>
-<a href="https://t.me/SorBlack" target="_blank"><img src="https://imgurl.ir/uploads/e48726_.jpg" 
-alt="SorBlack" width="100" height="80" border="10" /></a>
-<a href="https://t.me/SorBlack" target="_blank"><img src="https://imgurl.ir/uploads/e48726_.jpg" 
-alt="SorBlack" width="100" height="80" border="10" /></a>
+<a href="https://t.me/PrimeTeam" target="_blank">
+<a href="https://t.me/Prime_Plus" target="_blank">
+<a href="https://t.me/SorBlack" target="_blank">
+<a href="https://instagram/SorBlack" target="_blank">
+<a href="https://github.com/SorBlackPlus" target="_blank">
+YouTube<a href="https://www.youtube.com/channel/UCUfkceZ6SG07MItIg5n6sPA" target="_blank">
 
 ![alt text](https://imgurl.ir/uploads/r689883_.png)
 
